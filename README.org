@@ -5,7 +5,7 @@ Facilite le visionnage d'épisodes de la série "Kaamelott"
 
 *Les épisodes doivent être répartis de la manière suivante :*
 
-~~~~
+#+BEGIN_EXAMPLE
 .
 ├── Livre I
 │   ├── Kaamelott - s00e000 - Dies iræ.mkv
@@ -23,4 +23,4 @@ Facilite le visionnage d'épisodes de la série "Kaamelott"
 │   ├── Kaamelott - s02e003 - Le dialogue de paix.mkv
 │   ├── [..}
 └── serie.sh //Script 
-~~~~
+#+END_EXAMPLE
