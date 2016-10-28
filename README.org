@@ -1,9 +1,9 @@
-# Kaamelott script
+* Kaamelott script
 Facilite le visionnage d'épisodes de la série "Kaamelott"
 
-## Syntaxe temporaire
+* Syntaxe temporaire
 
-**Les épisodes doivent être répartis de la manière suivante (temporaire, prochainement possibilité de spécifier la forme à rechercher en regex):**
+*Les épisodes doivent être répartis de la manière suivante :*
 
 ~~~~
 .
