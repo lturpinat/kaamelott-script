@@ -1,8 +1,23 @@
 * Kaamelott script
 Facilite le visionnage d'épisodes de la série "Kaamelott"
 
-* Syntaxe temporaire
+* Screenshots
 
++ Sélection de l'épisode à voir
+
+[[./images/screenshot1.png]]
+
++ Visionnage en cours
+
+[[./images/screenshot2.png]]
+
++ Passage automatique à l'épisode suivant
+
+[[./images/screenshot3.png]]
+
+* Pré-requis
++ [[http://mpv.io/][mpv player]]
+* Configuration nécessaire au fonctionnement du script
 *Les épisodes doivent être répartis de la manière suivante :*
 
 #+BEGIN_EXAMPLE
@@ -24,3 +39,13 @@ Facilite le visionnage d'épisodes de la série "Kaamelott"
 │   ├── [..}
 └── serie.sh //Script 
 #+END_EXAMPLE
+
+C'est à dire que : 
+
+- Le script se trouve dans le même répertoire que la série
+- Chaque "Livre" (saison) est divisé de la manière suivante : "Livre I", "Livre II"... (*attention aux chiffres romains*)
+- Chaque épisode suit la syntaxe : "Kaamelott - s00e000 - Titre.mkv"
+
+* Notes
+
+Les restrictions de ce script seront corrigées dans /neo-watcher/, un script plus puissant qui saura s'adapter à n'importe quelle série.
