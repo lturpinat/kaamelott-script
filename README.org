@@ -45,7 +45,3 @@ C'est à dire que :
 - Le script se trouve dans le même répertoire que la série
 - Chaque "Livre" (saison) est divisé de la manière suivante : "Livre I", "Livre II"... (*attention aux chiffres romains*)
 - Chaque épisode suit la syntaxe : "Kaamelott - s00e000 - Titre.mkv"
-
-* Notes
-
-Les restrictions de ce script seront corrigées dans /neo-watcher/, un script plus puissant qui saura s'adapter à n'importe quelle série.
